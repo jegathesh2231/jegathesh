@@ -21,7 +21,4 @@ full stack developer
 
 ### 💻 Workspace Spec
 
-![ jegathesh GitHub stats](https://github-readme-stats.vercel.app/api?username=jegatheesh-r&theme=dark&show_icons=true&&hide=issues,contribs) 
-
-[![jegathesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jegatheesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jegathesh&bg_color=383838&color=dedede&line=5e9e4c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
